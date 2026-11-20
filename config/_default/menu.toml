@@ -14,7 +14,7 @@
 [[social]]
     identifier = "qq"
     name = "QQ"
-    url = "https://qm.qq.com/q/https://qm.qq.com/q/VvY3RI9xi8"
+url = "https://qm.qq.com/q/VvY3RI9xi8"
 
     [social.params]
         icon = "brand-qq"
